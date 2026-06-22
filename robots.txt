@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+User-agent: Yeti
+Allow: /
+Sitemap: https://aiaijungle.github.io/sitemapindex.xml
+Sitemap: https://aiaijungle.github.io/vibe-ebook/sitemap.xml
